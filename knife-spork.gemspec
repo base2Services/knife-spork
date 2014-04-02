@@ -5,7 +5,7 @@ Gem::Specification.new do |gem|
   gem.version       = '1.3.2'
   gem.authors       = ["Jon Cowie"]
   gem.email         = 'jonlives@gmail.com'
-  gem.homepage      = 'https://github.com/jonlives/knife-spork'
+  gem.homepage      = 'https://github.com/base2Services/knife-spork'
   gem.summary       = "A workflow plugin to help many devs work with the same chef repo/server"
   gem.description   = "A workflow plugin to help many devs work with the same chef repo/server"
 
